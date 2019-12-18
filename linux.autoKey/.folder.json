@@ -1,0 +1,28 @@
+{
+    "usageCount": 84, 
+    "abbreviation": {
+        "wordChars": "[\\w]", 
+        "abbreviations": [], 
+        "immediate": false, 
+        "ignoreCase": false, 
+        "backspace": true, 
+        "triggerInside": false
+    }, 
+    "modes": [
+        3
+    ], 
+    "title": "Gauthier.ctrlijkl", 
+    "hotkey": {
+        "hotKey": "i", 
+        "modifiers": [
+            "<ctrl>", 
+            "<hyper>"
+        ]
+    }, 
+    "filter": {
+        "regex": null, 
+        "isRecursive": false
+    }, 
+    "type": "folder", 
+    "showInTrayMenu": true
+}
